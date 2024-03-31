@@ -2,7 +2,7 @@
 
 **`Fullstack Developer`**
 
-Hi, I'm Dennis.A graduate from Moringa School. 
+Hi, I'm Dennis. A graduate from Moringa School. 
 
   <p align="left">
       <a href="https://github.com/Shai9?tab=followers">
