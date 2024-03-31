@@ -23,16 +23,15 @@ Hi everyone, I'm Dennis. I'm from Kenya. A recent  graduate from Moringa School.
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <br/>
 <br/>
 
 ### Backend
 
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Emacs" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" />
-          
-
+<img align="left" alt="Rails" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg"  />
+<img align="left" alt="Ruby" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
 <br/>
 <br/>
 
@@ -40,6 +39,7 @@ Hi everyone, I'm Dennis. I'm from Kenya. A recent  graduate from Moringa School.
 
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="SQLite" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <br/>
 <br/>
 
@@ -48,11 +48,16 @@ Hi everyone, I'm Dennis. I'm from Kenya. A recent  graduate from Moringa School.
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
 <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />
+<img align="left" alt="Netlify" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
 <br/>
 
 ### Tools
 
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
+<img align="left" alt="Emacs" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" />
+<img align="left" alt="Notion" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-plain.svg" />
+<img align="left" alt="Ps" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img align="left" alt="sto" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" />
 
 <br/>
