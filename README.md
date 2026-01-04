@@ -1,8 +1,8 @@
 # Dennis Shakava
 
-**`Fullstack Developer`**
+**`Software Engineer`**
 
-Hi, I'm Dennis. A graduate from Moringa School. 
+I love coding.
 
   <p align="left">
       <a href="https://github.com/Shai9?tab=followers">
